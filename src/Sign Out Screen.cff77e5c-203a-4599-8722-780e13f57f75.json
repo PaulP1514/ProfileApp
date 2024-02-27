@@ -1,4 +1,5 @@
 {
+    "id": "cff77e5c-203a-4599-8722-780e13f57f75",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -395,7 +396,6 @@
             "name": "MyAppLabel"
         }
     ],
-    "id": "cff77e5c-203a-4599-8722-780e13f57f75",
     "thunkableVersion": 444,
     "name": "Sign Out Screen"
 }

@@ -21,8 +21,8 @@
                     "createdAt": "2024-02-12T04:53:57.504Z",
                     "updatedAt": "2024-02-12T04:53:57.504Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65b2052dd4569f0202088126/projects/65c2664850179b325d69d6d3/assets/65c9a4652f8af6a70401cd55?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240213%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240213T202142Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=72ed8fdb63b133cc8b8f859772cae6dcf0ede69862023bb9b95eea0940468d607c4860a54aea54a08a00cf4126bdadb3e64c9fa8f233d59a71dcfa3734c81472ea97971afff2f3ff705847a13503f80d8c438f680305823b3fde46b73609c1b0010f3103a84ec1484f60bdecc9a7e3c874a661e828e233f0b700bc387047117f332951715c01ce2df20746451e14b58de657ec2ab443d1ce5002f10214710c7ec19b1ef000c64c27f91da9fe00f6ad1c61f35d2e00d450e975f0a75419f445850eab889f40ef83b2bb97f8f504a8b2151d7ce2d98c8fc0b2010427aaeaff24f90a8ee065c44ee5918ac5b77170e572bfecee2a816a7620c5ed4cc7a4bcf87c2c",
-                    "signedUrlExpirationTime": 1708028502808
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65b2052dd4569f0202088126/projects/65c2664850179b325d69d6d3/assets/65c9a4652f8af6a70401cd55?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240227%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240227T062040Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=4e21668234ded9c20f98c42cfeff7cf9e8824c1d4020b25e1f2d20a6082a57e895d565680d95bc3f8790588cd4e5070be16dab8e6fe6b5026d60528a069a34ba8582d7817126194b9caa036f73e1f2c404ae046fe0542f4a6f1511fda255363cda9fca5e5ce7eb45b82ef17ae7c03ae43e48f3ac5e3d1a042a6f09803af14431aac4566cf238c18b46487e17d3cc21e05d1d4232d5fd85eb3dea668136c0278a2d79fa99d2c0f26a001601b997a81be8ae7c013f1284fcb94f0f5de97b919e963056c9ca360c9c3c7da226db692c79a88870c58e26de81a4997f438c8d46e7631e6755641a507ec48d271aa292108f8c271335ee35dc0a3a4de639673c95b4ea",
+                    "signedUrlExpirationTime": 1709187640098
                 }
             },
             "backendUpgradeVersion": 24,
@@ -221,7 +221,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "0",
+            "totalCopy": "1",
             "totalStar": "0",
             "starAction": "star",
             "variables": {
